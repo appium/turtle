@@ -1,2 +1,16 @@
-# turtle
-It's turtles all the way down! And by turtles I mean Appium subproject interdependencies.
+turtle
+===================
+
+Work in progress, stay tuned!
+
+## Watch
+
+```
+npm run watch
+```
+
+## Test
+
+```
+npm test
+```
