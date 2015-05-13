@@ -24,10 +24,12 @@
   },
   "dependencies": {
     "asyncbox": "^2.0.2",
+    "babel": "^5.3.3",
     "babel-runtime": "^5.1.9",
     "bluebird": "^2.9.25",
     "cli-color": "^1.0.0",
     "david": "^6.1.6",
+    "depcheck": "^0.4.7",
     "lodash": "^3.8.0",
     "npm": "^2.9.0",
     "q": "^1.2.0",
