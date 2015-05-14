@@ -1,6 +1,6 @@
 {
-  "name": "turtle",
-  "description": "Description goes here.",
+  "name": "turtledeps",
+  "description": "Dependency checker. It's turtles all the way down!",
   "keywords": [
     "appium"
   ],
